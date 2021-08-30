@@ -1,2 +1,2 @@
 # T-SQL-COMMANDS
-Comandos T-SQL
+Códigos T-SQL que pode ajudar a montar query
